@@ -12,7 +12,7 @@ class _SpleshScreenState extends State<SpleshScreen> {
   @override
   Widget build(BuildContext context) {
     Future.delayed(Duration(seconds: 1), () {
-      Navigator.pushNamed(context, 'festival').then((value) {setState(() {});});
+      Navigator.pushReplacementNamed(context, 'festival');
     });
     return SafeArea(
       child: Scaffold(

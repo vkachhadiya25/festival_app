@@ -32,7 +32,8 @@ class _FestivalEditScreenState extends State<FestivalEditScreen> {
 
   @override
   Widget build(BuildContext context) {
-    List<FestivalModel> l1 = ModalRoute.of(context)!.settings.arguments as List<FestivalModel>;
+    List<FestivalModel> l1 =
+        ModalRoute.of(context)!.settings.arguments as List<FestivalModel>;
     double h = MediaQuery.of(context).size.height;
     double w = MediaQuery.of(context).size.width;
     return SafeArea(
@@ -76,7 +77,9 @@ class _FestivalEditScreenState extends State<FestivalEditScreen> {
                     ),
                     Visibility(
                       visible: isVisible,
-                      child: Image.asset("assets/bgimage/${l1[bgimageindex].image}",fit: BoxFit.cover,
+                      child: Image.asset(
+                        "assets/bgimage/${l1[bgimageindex].image}",
+                        fit: BoxFit.cover,
                         height: MediaQuery.of(context).size.height * 0.57,
                         width: MediaQuery.of(context).size.width,
                       ),
@@ -98,8 +101,10 @@ class _FestivalEditScreenState extends State<FestivalEditScreen> {
                   ],
                 ),
               ),
-               const SizedBox(height: 5,),
-               Container(
+              const SizedBox(
+                height: 5,
+              ),
+              Container(
                 height: 230,
                 width: 400,
                 decoration: BoxDecoration(
