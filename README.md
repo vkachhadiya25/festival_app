@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ![WhatsApp Image 2023-10-13 at 17-portrait](https://github.com/vkachhadiya25/festival_app/assets/131163362/50ccfaa3-47ce-4b6a-ba7e-380a42e8a572)
-![WhatsApp Image 2023-10-13 at 17-portrait](https://github.com/vkachhadiya25/festival_app/assets/131163362/47da266a-20e7-4643-893b-e611079f970c
+![WhatsApp Image 2023-10-13 at 17-portrait](https://github.com/vkachhadiya25/festival_app/assets/131163362/47da266a-20e7-4643-893b-e611079f970c")
 ![WhatsApp Image 2023-10-13 at 17-portrait](https://github.com/vkachhadiya25/festival_app/assets/131163362/0b10aeef-fd2f-4268-9a02-70245cf07b54)
 ![WhatsApp Image 2023-10-13 at 17-portrait](https://github.com/vkachhadiya25/festival_app/assets/131163362/83e78116-b866-40ca-9f18-a56d1cae93c4)
 ![WhatsApp Image 2023-10-13 at 17-portrait](https://github.com/vkachhadiya25/festival_app/assets/131163362/6a7e8c83-9532-415d-bbab-2eae7e2d7b4c)
